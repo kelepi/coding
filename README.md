@@ -1,5 +1,4 @@
 #Coding Cheetsheet#
----
 
 I will add new language cheetsheet here.
 
